@@ -26,7 +26,7 @@ header h1 {
 }
 
 header h2 {
-    font-size: 2vw;
+    font-size: 2.4vw;
     text-align: center;
     font-family: myFont, sans-serif;
     padding: 100px;
@@ -118,4 +118,3 @@ header section#img02
         font-family: myFont, sans-serif;
         text-align: center;
     }
-    
